@@ -1,7 +1,7 @@
 
-
+Myself Naga Malleswari Vuppalapati
 A passionate Data Engineer
-Malleswari Vuppalapati
+
 
 * 🔭 I’m currently working as Senior Data Engineer
 
@@ -11,9 +11,9 @@ Malleswari Vuppalapati
 
 * 💬 Ask me about Data Analysis, Data Engineering, Python, SQL, PySpark, Azure, AWS, ETL, Hadoop, SnowFlake, Databricks, Power BI.
 
-* 📫 How to reach me nagavuppalapati@gmail.com
+* 📫 How to reach me:  nagavuppalapati@gmail.com
 
-* Connect with me: https://www.linkedin.com/nagavuppalapati
+* Connect with me: ## https://www.linkedin.com/nagavuppalapati
 
 Languages and Tools:
 * Programming Languages: python scala java javascript
