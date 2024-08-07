@@ -13,7 +13,7 @@ A passionate Data Engineer
 
 * 📫 How to reach me:  nagavuppalapati@gmail.com
 
-* Connect with me: ## https://www.linkedin.com/nagavuppalapati
+* Connect with me: https://www.linkedin.com/nagavuppalapati
 
 Languages and Tools:
 * Programming Languages: python scala java javascript
@@ -28,4 +28,4 @@ Languages and Tools:
 
 * Others: linux git
 
-* 🔍 I love coding and I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects that align with my values and goals.📈💡
+🔍 I love coding and I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects that align with my values and goals.📈💡
