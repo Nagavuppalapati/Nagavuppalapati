@@ -21,12 +21,12 @@ Languages and Tools:
 
 * Cloud Platforms: Azure AWS
 
-* Databases: postgresql oracle mssql mysql hive mongodb cassandra
+* Databases: Postgresql Oracle MSSQL MYSQL Hive Mongodb Cassandra
 
-* DevOps: jenkins kubernetes docker bash
+* DevOps: Jenkins Kubernetes Docker 
 
-* AI/ML: pandas tensorflow
+* AI/ML: Pandas Tensorflow
 
-* Others: linux git
+* Others: Linux Git
 
 🔍 I love coding and I strongly believe that technology can greatly help in solving day to day problems, thereby creates a significant impact in transforming the lives of the people. I am interested in working on challenging and real-time projects that align with my values and goals.📈💡
