@@ -17,9 +17,9 @@ A passionate Data Engineer
 * Connect with me: https://www.linkedin.com/nagavuppalapati
 
 Languages and Tools:
-* Programming Languages: python scala java javascript
+* Programming Languages: Python Scala Java Javascript
 
-* Cloud Platforms: azure aws
+* Cloud Platforms: Azure AWS
 
 * Databases: postgresql oracle mssql mysql hive mongodb cassandra
 
