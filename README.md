@@ -14,7 +14,6 @@ A passionate Data Engineer
 
 * 📫 How to reach me:  nagavuppalapati@gmail.com
 
-* Connect with me: https://www.linkedin.com/nagavuppalapati
 
 Languages and Tools:
 * Programming Languages: Python Spark Scala Java Javascript
